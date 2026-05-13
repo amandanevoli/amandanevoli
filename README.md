@@ -1,3 +1,7 @@
+<a href="https://github.com/etecvav26-d202">
+<img src="https://img.shields.io/badge/GITHUB-CONTA_DO_GRUPO-ff1493?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
