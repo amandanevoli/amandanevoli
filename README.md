@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/etecvav26-d202">
-<img src="https://img.shields.io/badge/ETECVAV26--D202-1e1e2e?style=for-the-badge&logo=github&logoColor=white&labelColor=5865F2">
+<img src="https://img.shields.io/badge/CONTA_DO_GRUPO-1e1e2e?style=for-the-badge&logo=github&logoColor=white&labelColor=2f81f7">
 </a>
 
 <br></br>
