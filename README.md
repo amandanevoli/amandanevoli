@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=532EE8&height=120&section=header&"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4A29D0&height=120&section=header&"/>
 
 ## 💻 Tecnologias 
 
