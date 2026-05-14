@@ -4,8 +4,8 @@
 ###
 
 ## 🌐 Contato e Redes Sociais
-<a href="https://github.com/SEUUSUARIO">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/amandanevoli">
+  <img src="https://img.shields.io/badge/GITHUB-1e1e2e?style=for-the-badge&logo=github&logoColor=white&labelColor=ff1493">
 </a>
 
 ## 💻 Tecnologias 
