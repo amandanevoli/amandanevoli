@@ -4,21 +4,21 @@
 ###
 
 ## 🌐 Contato e Redes Sociais
-
 <div align="center">
+
 <a href="https://github.com/amandanevoli">
-  <img src="https://img.shields.io/badge/GITHUB-1e1e2e?style=for-the-badge&logo=github&logoColor=white&labelColor=434946">
+  <img src="https://img.shields.io/badge/GitHub-1e1e2e?style=for-the-badge&logo=github&logoColor=white&labelColor=434946">
 </a>
 
 <a href="https://github.com/etecvav26-d202">
-  <img src="https://img.shields.io/badge/CONTA_DO_GRUPO-1e1e2e?style=for-the-badge&logo=github&logoColor=white&labelColor=800080">
+  <img src="https://img.shields.io/badge/Conta_do_Grupo-1e1e2e?style=for-the-badge&logo=github&logoColor=white&labelColor=800080">
 </a>
 
 <a href="https://instagram.com/amandanvess_">
-  <img src="https://img.shields.io/badge/INSTAGRAM-1e1e2e?style=for-the-badge&logo=github&logoColor=white&labelColor=ff1493">
+  <img src="https://img.shields.io/badge/Instagram-1e1e2e?style=for-the-badge&logo=instagram&logoColor=white&labelColor=ff1493">
 </a>
 
-<a href="mailto:amandanevoli@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=amandanevoli@gmail.com">
   <img src="https://img.shields.io/badge/Email-1e1e2e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=3B82F6">
 </a>
 
