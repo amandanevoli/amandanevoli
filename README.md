@@ -19,7 +19,7 @@
 </a>
 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=amandanevoli@gmail.com">
-  <img src="https://img.shields.io/badge/Email-1e1e2e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=3B82F6">
+  <img src="https://img.shields.io/badge/Email-1e1e2e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=70DE27">
 </a>
 
 </div>
@@ -52,7 +52,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" height="50" alt="docker logo"  />
 </div>
 
-## 🔥 Contribuições e Streak
+## 🔥 Streak
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=amandanevoli&locale=en&mode=daily&background=0D1117&ring=3B82F6&fire=EC4899&currStreakNum=ffffff&sideNums=EC4899&currStreakLabel=3B82F6&sideLabels=ffffff&dates=9ca3af&stroke=3B82F6&border=EC4899&hide_border=false&border_radius=10" height="200" alt="streak graph" />
@@ -60,7 +60,18 @@
 
 ###
 
-## 
+## 📊 Contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amandanevoli/amandanevoli/pacman-output/breakout-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amandanevoli/amandanevoli/pacman-output/breakout-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/amandanevoli/amandanevoli/pacman-output/breakout-contribution-graph.svg">
+</picture>
+
+###
+
+
+###
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=footer"/>
 
