@@ -7,7 +7,7 @@
 
 <div align="center">
 <a href="https://github.com/amandanevoli">
-  <img src="https://img.shields.io/badge/GITHUB-1e1e2e?style=for-the-badge&logo=github&logoColor=white&labelColor=ff1493">
+  <img src="https://img.shields.io/badge/GITHUB-1e1e2e?style=for-the-badge&logo=github&logoColor=white&labelColor=434946">
 </a>
 
 <a href="https://instagram.com/amandanvess_">
@@ -15,7 +15,7 @@
 </a>
 
 <a href="mailto:amandanevoli@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-1e1e2e?style=for-the-badge&logo=github&logoColor=white&labelColor=ff1493">
+  <img src="https://img.shields.io/badge/EMAIL-1e1e2e?style=for-the-badge&logo=github&logoColor=white&labelColor=70DE27">
 </a>
 
 </div>
