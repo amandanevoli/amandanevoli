@@ -121,6 +121,49 @@ Protótipos modernos criados no Figma com foco em experiência do usuário.
 
 </div>
 
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,100:EC4899&text=Amanda&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-end%20Developer%20•%20Mobile%20Developer%20•%20UI/UX&descAlignY=58"/>
+
+<br>
+
+<a href="https://github.com/SEUUSUARIO">
+<img src="https://img.shields.io/github/followers/SEUUSUARIO?style=for-the-badge&logo=github&color=ec4899&labelColor=0f172a"/>
+</a>
+
+<a href="https://github.com/SEUUSUARIO">
+<img src="https://img.shields.io/github/stars/SEUUSUARIO?style=for-the-badge&logo=github&color=f8fafc&labelColor=0f172a"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=SEUUSUARIO&style=for-the-badge&color=ec4899"/>
+
+</div>
+
+---
+
+# 👩🏻‍💻 About Me
+
+```ts
+const amanda = {
+  role: "Front-end & Mobile Developer",
+  education: "Systems Development Student",
+  focus: [
+    "Mobile Applications",
+    "Modern Interfaces",
+    "UI/UX Design",
+    "Front-end Development"
+  ],
+  currentlyLearning: [
+    "React",
+    "Flutter",
+    "Firebase"
+  ],
+  passions: [
+    "Technology",
+    "Design Systems",
+    "Creative Development"
+  ]
+}
 ---
 
 <div align="center">
@@ -130,3 +173,38 @@ Protótipos modernos criados no Figma com foco em experiência do usuário.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer"/>
 
 </div>
+
+⚡ Tech Stack
+<div align="center"> <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nodejs,flutter,firebase,java,python,git,github,figma,vscode&perline=7"/> </div>
+📊 GitHub Analytics
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=transparent&hide_border=true&title_color=ec4899&text_color=cbd5e1&icon_color=ec4899"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=transparent&hide_border=true&title_color=ec4899&text_color=cbd5e1"/> </div>
+🔥 Contribution Streak
+<div align="center"> <img src="https://streak-stats.demolab.com?user=SEUUSUARIO&theme=transparent&hide_border=true&ring=ec4899&fire=ec4899&currStreakLabel=ec4899"/> </div>
+🚀 Featured Projects
+<table> <tr> <td width="50%">
+📱 Portfolio DDM
+
+Aplicações mobile desenvolvidas com foco em performance, design moderno e experiência do usuário.
+
+</td> <td width="50%">
+🎨 UI/UX Concepts
+
+Interfaces criativas e protótipos desenvolvidos no Figma com foco em usabilidade.
+
+</td> </tr> <tr> <td width="50%">
+💻 Academic Projects
+
+Projetos técnicos envolvendo lógica, desenvolvimento mobile e front-end moderno.
+
+</td> <td width="50%">
+⚙️ Advanced Components
+
+Aplicações construídas utilizando componentes avançados e integração visual.
+
+</td> </tr> </table>
+🌐 Connect With Me
+<div align="center"> <a href="https://github.com/SEUUSUARIO"> <img src="https://skillicons.dev/icons?i=github"/> </a> <a href="https://linkedin.com/in/SEULINK"> <img src="https://skillicons.dev/icons?i=linkedin"/> </a> <a href="https://instagram.com/SEUUSER"> <img src="https://skillicons.dev/icons?i=instagram"/> </a> </div>
+<div align="center"> <img width="100%" src="https://github-profile-trophy.vercel.app/?username=SEUUSUARIO&theme=algolia&no-frame=true&row=1&column=6"/> </div>
+<div align="center">
+Building modern digital experiences through code and design.
+<br> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:EC4899,100:0F172A&section=footer"/> </div> ```
