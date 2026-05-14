@@ -19,7 +19,7 @@
 </a>
 
 <a href="mailto:amandanevoli@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-1e1e2e?style=for-the-badge&logo=github&logoColor=white&labelColor=70DE27">
+  <img src="https://img.shields.io/badge/Email-1e1e2e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=3B82F6">
 </a>
 
 </div>
@@ -59,6 +59,8 @@
 </div>
 
 ###
+
+## 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=footer"/>
 
