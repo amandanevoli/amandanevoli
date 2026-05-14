@@ -1,8 +1,6 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=header&reversal=false&fontSize=50&fontColor=532EE8&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=random"  />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=532EE8&height=120&section=header&"/>
 
-###
+## 💻 Tecnologias 
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="vscode logo"  />
@@ -33,15 +31,11 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=amandanevoli&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=amandanevoli&locale=en&mode=daily&color=532EE8a&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amandanevoli/amandanevoli/pacman-output/galaga-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amandanevoli/amandanevoli/pacman-output/galaga-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/amandanevoli/amandanevoli/pacman-output/galaga-contribution-graph.svg">
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=532EE8&height=120&section=footer"/>
 
-###
+</div>
