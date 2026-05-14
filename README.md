@@ -1,11 +1,6 @@
-<div align="center">
-
-<a href="https://github.com/etecvav26-d202">
-<img src="https://img.shields.io/badge/CONTA_DO_GRUPO-1e1e2e?style=for-the-badge&logo=github&logoColor=white&labelColor=ff1493">
-</a>
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=header&reversal=false&text=Bem-vindo(a)!&fontSize=50&fontColor=ED00B0&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=header&reversal=false&text=Bem-vindo(a)!&fontSize=50&fontColor=EB1896&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
 </div>
 
 ###
