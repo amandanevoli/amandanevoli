@@ -15,7 +15,7 @@
 </a>
 
 <a href="mailto:amandanevoli@gmail.com">
-  <img src="https://img.shields.io/badge/E-MAIL-1e1e2e?style=for-the-badge&logo=github&logoColor=white&labelColor=ff1493">
+  <img src="https://img.shields.io/badge/EMAIL-1e1e2e?style=for-the-badge&logo=github&logoColor=white&labelColor=ff1493">
 </a>
 
 </div>
