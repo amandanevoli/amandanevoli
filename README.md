@@ -1,10 +1,3 @@
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=header&reversal=false&text=Bem-vindo(a)!&fontSize=50&fontColor=EB1896&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=EB1896"  />
-</div>
-
-###
-
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=header&reversal=false&fontSize=50&fontColor=532EE8&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=random"  />
 </div>
