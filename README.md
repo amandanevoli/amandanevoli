@@ -10,16 +10,16 @@
   <img src="https://img.shields.io/badge/GITHUB-1e1e2e?style=for-the-badge&logo=github&logoColor=white&labelColor=434946">
 </a>
 
+<a href="https://github.com/etecvav26-d202">
+  <img src="https://img.shields.io/badge/CONTA_DO_GRUPO-1e1e2e?style=for-the-badge&logo=github&logoColor=white&labelColor=800080">
+</a>
+
 <a href="https://instagram.com/amandanvess_">
   <img src="https://img.shields.io/badge/INSTAGRAM-1e1e2e?style=for-the-badge&logo=github&logoColor=white&labelColor=ff1493">
 </a>
 
 <a href="mailto:amandanevoli@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-1e1e2e?style=for-the-badge&logo=github&logoColor=white&labelColor=70DE27">
-</a>
-
-<a href="https://github.com/etecvav26-d202">
-  <img src="https://img.shields.io/badge/CONTA_DO_GRUPO_DA_ESCOLA-1e1e2e?style=for-the-badge&logo=github&logoColor=white&labelColor=800080">
 </a>
 
 </div>
