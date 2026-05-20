@@ -1,3 +1,4 @@
+<!-- início !-->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=header&"/>
 <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=700&size=36&pause=1500&color=3B82F6&center=true&vCenter=true&width=1000&lines=Seja+bem-vindo(a)!;Explore+meus+projetos+e+minha+evolu%C3%A7%C3%A3o+na+programa%C3%A7%C3%A3o;Transformando+ideias+em+c%C3%B3digo" alt="Typing SVG" />
 
